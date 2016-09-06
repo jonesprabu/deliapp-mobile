@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/deliapp.iml" filepath="$PROJECT_DIR$/.idea/deliapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../j1s-deliapp/.idea/j1s-deliapp.iml" filepath="$PROJECT_DIR$/../../j1s-deliapp/.idea/j1s-deliapp.iml" />
+    </modules>
+  </component>
+</project>
